@@ -1,6 +1,5 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs").promises;
-const { runReuseCookie } = require("../facebook_with_cookies_test");
 
 require("dotenv").config();
 
