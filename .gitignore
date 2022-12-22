@@ -1,0 +1,6 @@
+.env
+node_modules
+package-lock.json
+after-login.jpg
+login-using-cookies.jpg
+cookies.json

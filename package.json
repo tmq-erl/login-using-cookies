@@ -1,0 +1,23 @@
+{
+  "name": "login-using-cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "facebook_with_cookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmq-erl/login-using-cookies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmq-erl/login-using-cookies/issues"
+  },
+  "homepage": "https://github.com/tmq-erl/login-using-cookies#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
